@@ -26,11 +26,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://n0omad.github.io
 domain: n0omad.github.io
  # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _damoon
+twitter_username: _no0mad
 github_username:  n0omad
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
 
