@@ -33,7 +33,6 @@ github_username:  n0omad
 theme: no-style-please
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 highlighter: rouge
 
