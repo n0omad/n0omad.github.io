@@ -30,7 +30,7 @@ twitter_username: _no0mad
 github_username:  n0omad
 
 # Build settings
-remote_theme:  riggraz/no-style-please
+theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
