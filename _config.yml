@@ -30,7 +30,7 @@ twitter_username: _no0mad
 github_username:  n0omad
 
 # Build settings
-theme: no-style-please
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
