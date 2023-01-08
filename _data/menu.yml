@@ -1,0 +1,16 @@
+entries:
+  - title: about
+    entries:
+      - title: email
+        url: mailto:damoonimani@pm.me
+
+      - title: github
+        url: https://github.com/n0omad/
+
+      - title: twitter
+        url: https://twitter.com/_no0mad
+
+      - title: "<a href='/feed.xml'>RSS</a>"
+
+  - title: posts
+    post_list: true
