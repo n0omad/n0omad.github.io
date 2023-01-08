@@ -22,28 +22,19 @@ title: Absurd Essays
 email: damoonimani@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
     [TODO] Perfectionism good, Pessimism better
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://n0omad.github.io/"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://n0omad.github.io
+domain: n0omad.github.io
  # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: _damoon
+github_username:  n0omad
 
 # Build settings
-theme: pages-themes/merlot@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
-lsi: false
-safe: true
-source: n0omad.github.io/
-incremental: false
 highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
